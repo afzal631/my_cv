@@ -1,0 +1,47 @@
+body {
+  background-color: #dddddd;
+  padding: 0%;
+  margin: 0%;
+}
+A {
+  text-decoration: none;
+  color: tomato;
+}
+A:hover {
+  font-size: 15px;
+}
+
+hr {
+  /* background-color: burlywood; */
+  border-style: none;
+  border-top-style: dotted;
+  height: none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+ul {
+  list-style-position: inside;
+}
+img {
+  height: 150px;
+  width: 150px;
+}
+
+h1,
+h3 {
+  color: #66bfbf;
+}
+.about-me {
+  height: 7%;
+  width: 7%;
+}
+
+#first {
+  border-style: none;
+  border-top-style: solid;
+  height: none;
+  border-width: 2px;
+  width: 70%;
+  border-color: grey;
+}
